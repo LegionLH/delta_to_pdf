@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_quill: ^10.8.5
+  flutter_quill: ^11.0.0
   pdf: ^3.10.8
 
 dev_dependencies:
